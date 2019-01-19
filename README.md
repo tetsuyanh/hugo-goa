@@ -3,12 +3,12 @@
 
 Goa is a clean, simple and minimalist theme for blogs and personal websites.
 
-<img src="http://i.imgur.com/vqMd1Mx.png" width="40%" height="40%" />
+<img src="https://i.imgur.com/vqMd1Mx.png" width="40%" height="40%" />
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/shenoybr/hugo-goa/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/shenoybr/hugo-goa.svg?style=flat-square)](https://github.com/shenoybr/hugo-goa/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/shenoybr/hugo-goa.svg?style=flat-square)](https://github.com/shenoybr/hugo-goa/network)
-[![quality badge](https://img.shields.io/badge/cuteness-overload-blue.svg?style=flat-square)](http://www.emergencykitten.com/)
+[![quality badge](https://img.shields.io/badge/cuteness-overload-blue.svg?style=flat-square)](https://www.emergencykitten.com/)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/shenoybr/hugo-goa.svg?style=social&style=flat-square)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 ## Demo
 
@@ -146,7 +146,7 @@ These settings to display your social accounts.
 
 These settings for extra features that this site uses.
 
-- `copyright`: Add a copyright statement to the bottom of the theme. eg. `© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."`
+- `copyright`: Add a copyright statement to the bottom of the theme. eg. `© 2016. Erlich Bachman. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/)."`
 - `rss`: Enable rss icon next to social accounts.
 - `poweredby`: Help promote this theme and give the authors credit. eg. `true` or `false`.
 - `highlightjs`: Use highlightJS to highlight code on your site. eg. `true` or `false`.
@@ -188,16 +188,16 @@ Example:
 
 ## Screenshots
 
-<img src="http://i.imgur.com/vqMd1Mx.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/dfj8MHz.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/mMFfkZY.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/7e67ypn.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/lz3RGH9.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/IPggNGk.png" width="30%" height="30%" />
-<img src="http://i.imgur.com/FW1Bdln.png" width="10%" height="10%" />
-<img src="http://i.imgur.com/vTY5GeX.png" width="10%" height="10%" />
-<img src="http://i.imgur.com/aJZQYZ6.png" width="10%" height="10%" />
-<img src="http://i.imgur.com/rGQJAF3.png" width="10%" height="10%" />
+<img src="https://i.imgur.com/vqMd1Mx.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/dfj8MHz.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/mMFfkZY.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/7e67ypn.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/lz3RGH9.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/IPggNGk.png" width="30%" height="30%" />
+<img src="https://i.imgur.com/FW1Bdln.png" width="10%" height="10%" />
+<img src="https://i.imgur.com/vTY5GeX.png" width="10%" height="10%" />
+<img src="https://i.imgur.com/aJZQYZ6.png" width="10%" height="10%" />
+<img src="https://i.imgur.com/rGQJAF3.png" width="10%" height="10%" />
 
 ## Contributing
 
@@ -229,10 +229,10 @@ Example:
 
 The theme's design was inspired by many blogs and themes:
 
-1. Bruno de Carvalho's [blog](http://biasedbit.com).
-2. [Hugo Cocoa](http://themes.gohugo.io/cocoa/).
-3. [Hugo Vec](http://themes.gohugo.io/hugo-theme-vec/).
-4. [Hugo Agency](http://themes.gohugo.io/hugo-agency/).
+1. Bruno de Carvalho's [blog](https://biasedbit.com).
+2. [Hugo Cocoa](https://themes.gohugo.io/cocoa/).
+3. [Hugo Vec](https://themes.gohugo.io/hugo-theme-vec/).
+4. [Hugo Agency](https://themes.gohugo.io/hugo-agency/).
 
 ## License
 
