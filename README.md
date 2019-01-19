@@ -1,3 +1,8 @@
+# fork for additional features
+
+- Google Analytics only production env
+- Twitter card
+- Japanese optimization of CSS
 
 # Goa
 
