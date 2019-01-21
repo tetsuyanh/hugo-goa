@@ -59,7 +59,7 @@
 <meta name="twitter:description" content="{{if .IsPage}}{{ .Description }}{{else}}{{.Site.Params.Description}}{{end}}">
 
 {{ if .Site.Params.meta.fbappid }}
-<meta property="fb:app_id" content="{{ ..Site.Params.meta.fbappid }}" />
+<meta property="fb:app_id" content="{{ .Site.Params.meta.fbappid }}" />
 <meta property="og:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
 {{ with .Site.Params.meta.keywords }}<meta property="og:type" content="{{.}}">{{ end }}
 <meta property="og:url" content="{{ .Permalink }}">
